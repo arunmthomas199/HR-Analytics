@@ -1,0 +1,3 @@
+solution to the above-mentioned HR Analytics problem using various supervised learning techniques like Logistic Regression, Random Forest etc. With the help of train dataset, we have found out which model possess the highest f1 score and implement that model to the test dataset and predicted the potential candidate.
+As per the test data provided, out of 23,491 employees, only 21.08% of the employees shall be promoted. The remaining 78.92% of the employees are not eligible for promotion.
+Therefore, we can conclude that this model shall help the organization to expedite the promotion process and choose the right candidate
